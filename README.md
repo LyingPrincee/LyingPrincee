@@ -7,7 +7,7 @@ I am training to be a programmer and have a solid grasp of development and autom
 Skills: Python / C# / AUTOMATION / AI / API 
 
 
-
+### My Links:
 <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/LyingPrincee" target="_blank">
