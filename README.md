@@ -9,15 +9,29 @@ Skills: Python / C# / AUTOMATION / AI / API
 
 
 <p align="left">
-  <!-- Пример с использованием Shields.io (белые логотипы на цветных или темных плашках) -->
-  <a href="ВАША_ССЫЛКА_НА_ТЕЛЕГРАМ">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <!-- GitHub -->
+  <a href="https://github.com/LyingPrincee" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40" alt="github" style="filter: invert(1);" />
   </a>
-  <a href="https://github.com/LyingPrincee">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  &nbsp;&nbsp;
+  <!-- Telegram -->
+  <a href="https://t.me/Toshik_Yagami" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="40" alt="telegram" style="filter: invert(1);" />
   </a>
-  <a href="mailto:skyexe6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  &nbsp;&nbsp;
+  <!-- Discord -->
+  <a href="https://discord.com/users/1155878125561978940" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="40" alt="discord" style="filter: invert(1);" />
   </a>
-</p> 
+  &nbsp;&nbsp;
+  <!-- Steam -->
+  <a href="https://steamcommunity.com/id/LyingPrince/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" height="40" alt="steam" style="filter: invert(1);" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:skyexe6@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="40" alt="gmail" style="filter: invert(1);" />
+  </a>
+</p>
 
