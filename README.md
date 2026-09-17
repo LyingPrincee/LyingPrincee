@@ -15,12 +15,12 @@ Skills: Python / C# / AUTOMATION / AI / API
   </a>
   &nbsp;&nbsp;
   <!-- Telegram -->
-  <a href="https://t.me/ВАШ_НИК_ТЕЛЕГРАМ" target="_blank">
+  <a href="https://t.me/Toshik_Yagami" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="telegram" height="35"/>
   </a>
   &nbsp;&nbsp;
   <!-- Discord -->
-  <a href="https://discord.com/users/ВАШ_ТЕГ_ДИСКОРД" target="_blank">
+  <a href="https://discord.com/users/1155878125561978940" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="discord" height="35"/>
   </a>
   &nbsp;&nbsp;
